@@ -1,9 +1,9 @@
 {
   "common": {
     "brand": {
-      "name": "SISTINE",
-      "tagline": "Sistine AI & Sistine Labs",
-      "copyright": "Copyright © 2025 Sistine AI & Sistine Labs",
+      "name": "Magic Camera",
+      "tagline": "Magic Camera AI",
+      "copyright": "Copyright © 2025 Magic Camera AI",
       "allRightsReserved": "All rights reserved"
     },
     "actions": {
@@ -62,29 +62,29 @@
     }
   },
   "hero": {
-    "badge": "⚡ The First Starter Built for Vibe Coding",
-    "title": "Vibe Code Your AI SaaS to Production",
-    "description": "No coding skills? Perfect. Sistine + AI coding assistants = Your SaaS idea live in hours. Just describe what you want. Ship what users love.",
+    "badge": "⚡ AI Technology for Professional Business Photos",
+    "title": "Magic Camera - AI Professional Headshot Generator",
+    "description": "Using advanced AI technology to help you generate professional, high-quality business photos. Purchase credits and use credits to create perfect professional headshots that make you stand out in your career.",
     "cta": {
-      "primary": "View Docs",
-      "secondary": "Get Code"
+      "primary": "Start Generating",
+      "secondary": "View Pricing"
     }
   },
   "features": {
-    "title": "Everything You Need for Vibe Coding Success",
-    "subtitle": "Stop wasting time on boilerplate. Focus on describing your unique features while Sistine handles the foundation. Ship faster with AI.",
+    "title": "Everything You Need for Professional AI Headshots",
+    "subtitle": "Using advanced AI technology to help you generate professional, high-quality business photos. Focus on providing the best professional image solutions.",
     "items": {
       "aiOptimized": {
-        "title": "Built for AI-Assisted Development",
-        "description": "Perfectly structured for Cursor, Windsurf, and Claude Code. Every file, every component optimized for AI understanding and modification."
+        "title": "Advanced AI Image Generation Technology",
+        "description": "Uses the latest AI image generation models to ensure professional, high-quality business photos that meet workplace standards."
       },
       "zeroPipeline": {
-        "title": "Zero to Production Pipeline",
-        "description": "Authentication, payments, database, deployment - all configured. Just prompt your AI assistant and watch your SaaS come to life."
+        "title": "Simple and Easy Credits System",
+        "description": "Purchase credits and use credits to generate photos. Flexible credit packs and subscription plans to meet different user needs."
       },
       "nonTechnical": {
-        "title": "Non-Technical Founder Friendly",
-        "description": "Don't know React from Rails? Doesn't matter. If you can describe your idea clearly, you can ship a SaaS product."
+        "title": "No Professional Skills Required",
+        "description": "No photography or design experience needed. Generate professional business photos with simple operations. User-friendly interface and easy operation."
       },
       "productionGrade": {
         "title": "Production-Grade from Day One",

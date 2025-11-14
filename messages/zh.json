@@ -1,9 +1,9 @@
 {
   "common": {
     "brand": {
-      "name": "SISTINE",
-      "tagline": "Sistine AI & Sistine Labs",
-      "copyright": "版权所有 © 2025 Sistine AI & Sistine Labs",
+      "name": "Magic Camera",
+      "tagline": "Magic Camera AI",
+      "copyright": "版权所有 © 2025 Magic Camera AI",
       "allRightsReserved": "保留所有权利"
     },
     "actions": {
@@ -62,29 +62,29 @@
     }
   },
   "hero": {
-    "badge": "⚡ 专为 Vibe Coding 打造的首款入门套件",
-    "title": "通过 Vibe Coding 将您的 AI SaaS 产品投入生产",
-    "description": "不懂编程？没问题。Sistine 加上 AI 编程助手，让您的 SaaS 创意在数小时内上线。您只需描述您的想法，即可交付用户真正喜爱的产品。",
+    "badge": "⚡ AI 技术生成专业职业照片",
+    "title": "Magic Camera - 专业AI职业照生成器",
+    "description": "使用先进的AI技术，帮您生成专业、高质量的职业照片。购买积分，使用积分生成完美的职业形象照片，助您在职场中脱颖而出。",
     "cta": {
-      "primary": "查看文档",
-      "secondary": "获取代码"
+      "primary": "开始生成",
+      "secondary": "查看价格"
     }
   },
   "features": {
-    "title": "Vibe Coding 成功所需的一切功能",
-    "subtitle": "告别在样板代码上浪费时间。专注于描述您的独特功能，Sistine 会为您处理好底层基础。借助 AI 加速产品交付。",
+    "title": "专业AI职业照生成所需的一切功能",
+    "subtitle": "使用先进的AI技术，帮您生成专业、高质量的职业照片。专注于提供最好的职业形象解决方案，让您在职场中脱颖而出。",
     "items": {
       "aiOptimized": {
-        "title": "为 AI 辅助开发而生",
-        "description": "为 Cursor、Windsurf 和 Claude Code 等工具完美结构化。每个文件、每个组件都经过优化，便于 AI 理解和修改。"
+        "title": "先进的AI图像生成技术",
+        "description": "采用最新的AI图像生成模型，确保生成的职业照片专业、高质量，符合职场标准。"
       },
       "zeroPipeline": {
-        "title": "从零到生产的完整流程",
-        "description": "身份验证、支付、数据库、部署——一切均已配置完毕。只需向您的 AI 助手发出指令，即可见证您的 SaaS 产品诞生。"
+        "title": "简单易用的积分系统",
+        "description": "购买积分，使用积分生成照片。灵活的积分包和订阅计划，满足不同用户的需求。"
       },
       "nonTechnical": {
-        "title": "对非技术背景的创始人友好",
-        "description": "分不清 React 和 Rails？没关系。只要您能清晰地描述您的想法，就能成功交付一款 SaaS 产品。"
+        "title": "无需专业技能",
+        "description": "无需摄影或设计经验，只需简单操作即可生成专业职业照片。界面友好，操作简便。"
       },
       "productionGrade": {
         "title": "从第一天起即达生产级别",

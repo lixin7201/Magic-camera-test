@@ -88,18 +88,14 @@ export const Hero = () => {
       >
         <Button
           as={LocaleLink}
-          href="https://docs.sistine.dev"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="/demo"
         >
           {t('cta.primary')}
         </Button>
         <Button
           variant="simple"
-          as="a"
-          href="https://applysistine.vercel.app"
-          target="_blank"
-          rel="noopener noreferrer"
+          as={LocaleLink}
+          href="/pricing"
           className="flex space-x-2 items-center group"
         >
           <span>{t('cta.secondary')}</span>
